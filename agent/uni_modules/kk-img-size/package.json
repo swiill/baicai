@@ -1,0 +1,24 @@
+{
+	"id": "kk-img-size",
+	"displayName": "图片、照片压缩大小组件；支持三端(app+，h5，小程序)",
+	"version": "1.0.1",
+	"description": "图片、照片压缩大小组件；支持三端(app+，h5，小程序)",
+	"keywords": [
+        "压缩",
+        "图片",
+        "组件"
+    ],
+	"repository": "",
+	"engines": {},
+	"dcloudext": {
+		"contact": {
+			"qq": ""
+		},
+		"declaration": {
+			"ads": "无",
+			"data": "无",
+			"permissions": "无"
+		},
+		"npmurl": ""
+	}
+}
