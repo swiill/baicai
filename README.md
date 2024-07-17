@@ -28,7 +28,7 @@
 10、其他特点或功能如 红包、代理、注册不须真实手机号等。
 
 ![输入图片说明](agent/QQ%E5%9B%BE%E7%89%8720240717102220.png)
-
+![输入图片说明](agent/QQ%E6%88%AA%E5%9B%BE20240717102554.png)
 #### 软件架构
 B/S uni-app + springboot + MySQL   网页 + 安卓App
 
@@ -44,3 +44,4 @@ B/S uni-app + springboot + MySQL   网页 + 安卓App
 1.  xxxx
 2.  xxxx
 3.  xxxx
+![输入图片说明](agent/QQ%E6%88%AA%E5%9B%BE20240717102647.png)![输入图片说明](agent/QQ%E6%88%AA%E5%9B%BE20240717102647.png)![输入图片说明](agent/QQ%E6%88%AA%E5%9B%BE20240717102624.png)![输入图片说明](agent/1.png)![输入图片说明](agent/3.png)![输入图片说明](agent/5.png)![输入图片说明](agent/6.png)
