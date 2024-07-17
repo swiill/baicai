@@ -42,16 +42,5 @@ B/S uni-app + springboot + MySQL   网页 + 安卓App
 
 演示环境稍后上线
 
-![输入图片说明](agent/QQ%E5%9B%BE%E7%89%8720240717102220.png)
-
-![输入图片说明](agent/QQ%E6%88%AA%E5%9B%BE20240717102554.png)
-
-![输入图片说明](agent/QQ%E6%88%AA%E5%9B%BE20240717102647.png)
-
-![输入图片说明](agent/QQ%E6%88%AA%E5%9B%BE20240717102624.png)
-
-![输入图片说明](agent/1.png)
-
-![输入图片说明](agent/3.png)
-
-![输入图片说明](agent/5.png)
+截图链接：
+https://gitee.com/swiill/baicai/tree/master
