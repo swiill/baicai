@@ -48,12 +48,10 @@ B/S uni-app + springboot + MySQL   网页 + 安卓App
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  前端源码导入Hbuilderx运行或打包
+2.  后端源码导入eclipse或相关ide中，启动或打包
+3.  任何问题交流请加QQ3288116868
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+演示环境稍后上线
