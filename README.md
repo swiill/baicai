@@ -37,7 +37,7 @@ B/S uni-app + springboot + MySQL   网页 + 安卓App
 
 1.  前端源码导入Hbuilderx运行或打包
 2.  后端源码导入eclipse或相关ide中，启动或打包
-3.  任何问题请加QQ3288116868交流探讨
+3.  任何问题请加QQ3288116868 欢迎交流探讨
 
 #### 使用说明
 
