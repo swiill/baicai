@@ -39,9 +39,18 @@ B/S uni-app + springboot + MySQL   网页 + 安卓App
 2.  后端源码导入eclipse或相关ide中，启动或打包
 3.  任何问题请加QQ3288116868 欢迎交流探讨
 
-#### 使用说明
+#### 演示环境
 
-演示环境稍后上线
+玩家
+http://47.121.120.42
+用户 18888886666
+密码 facai188
+
+店主
+http://47.121.120.42:90
+用户 yhb
+密码 facai188
+
 
 截图链接：
 https://gitee.com/swiill/baicai/tree/master
