@@ -42,13 +42,19 @@ B/S uni-app + springboot + MySQL   网页 + 安卓App
 #### 演示环境
 
 玩家
+
 http://47.121.120.42
+
 用户 18888886666
+
 密码 facai188
 
 店主
+
 http://47.121.120.42:90
+
 用户 yhb
+
 密码 facai188
 
 
